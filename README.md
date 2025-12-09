@@ -13,6 +13,14 @@ A real‑time driver drowsiness detection system that uses computer vision and m
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="assets/open_eye_demonstration.png" alt="Open eye" width="45%">
+  <img src="assets/closed_eye_demonstration.png" alt="Closed eye" width="45%">
+</p>
+
+
 ## Folder Structure
 
 ```txt
